@@ -1,0 +1,15 @@
+{
+  "name": "afex-telegram-bot",
+  "version": "1.0.0",
+  "description": "Telegram bot for AFEX Mining",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "dependencies": {
+    "node-telegram-bot-api": "^0.65.1"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
